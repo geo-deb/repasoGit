@@ -2,3 +2,5 @@ naranja
 mandarina
 manzana
 limon
+uva
+cereza
