@@ -4,3 +4,5 @@ manzana
 limon
 uva
 cereza
+piña
+zapote
