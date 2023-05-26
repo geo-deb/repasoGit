@@ -1,6 +1,6 @@
-literatura
+libro principal
 ciencia
-tecnologia
+tecnologia en la nube
 matematicas
 programacion
 base de datos
