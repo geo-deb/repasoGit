@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 libro principal
-=======
 quimica
->>>>>>> expansion
 ciencia
 tecnologia en la nube
 matematicas
